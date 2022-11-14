@@ -21,4 +21,4 @@ Using the reward function which gives negative score when the temperature violat
 
 ![](/images/trained_vs_non-trained.png)
 
-Note: Huge thanks to Nicolas Renotte for such a wonderful tutorial on Reinforcement Learning with OpenAI Gym ![Reinforcement Learning in 3 Hours | Full Course using Python](https://youtu.be/Mut_u40Sqz4)
+Note: Huge thanks! to Nicolas Renotte for such a wonderful tutorial on Reinforcement Learning with OpenAI Gym ![Reinforcement Learning in 3 Hours | Full Course using Python](https://youtu.be/Mut_u40Sqz4)
